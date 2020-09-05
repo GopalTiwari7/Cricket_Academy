@@ -40,7 +40,6 @@
     float: right;
     padding: 0 20px;
   }
-
   .menu li {
     display: inline-block;
     line-height: 70px;
@@ -92,7 +91,7 @@
 
   #banner h2 {
     margin: 20px 20px;
-    color: #fff;
+    color: lightcoral;
   }
 
   /* ------- Team Members ----- */
@@ -167,19 +166,19 @@
   }
 
   #p1 {
-    background-image: url(https://gopaltiwari7.github.io/FullStack-1/Practicals/images/p1.png);
+    background-image: url(https://gopaltiwari7.github.io/Cricket_Academy/Images/sachin.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
 
   #p2 {
-    background-image: url(https://gopaltiwari7.github.io/FullStack-1/Practicals/images/p2.png);
+    background-image: url(https://gopaltiwari7.github.io/Cricket_Academy/Images/bumrah.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
 
   #p3 {
-    background-image: url(https://gopaltiwari7.github.io/FullStack-1/Practicals/images/p3.png);
+    background-image: url(https://gopaltiwari7.github.io/Cricket_Academy/Images/hardik.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -408,19 +407,19 @@
   }
 
   #p1 {
-    background-image: url(https://gopaltiwari7.github.io/FullStack-1/Practicals/images/p1.png);
+    background-image: url(https://gopaltiwari7.github.io/Cricket_Academy/Images/sachin.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
 
   #p2 {
-    background-image: url(https://gopaltiwari7.github.io/FullStack-1/Practicals/images/p2.png);
+    background-image: url(https://gopaltiwari7.github.io/Cricket_Academy/Images/bumrah.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
 
   #p3 {
-    background-image: url(https://gopaltiwari7.github.io/FullStack-1/Practicals/images/p3.png);
+    background-image: url(https://gopaltiwari7.github.io/Cricket_Academy/Images/hardikjpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -618,19 +617,19 @@
   }
 
   #p1 {
-    background-image: url(https://imgur.com/JyMz0CR.jpg);
+    background-image: url(https://gopaltiwari7.github.io/Cricket_Academy/Images/sachin.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
 
   #p2 {
-    background-image: url(https://imgur.com/GFLWoXM.jpeg);
+    background-image: url(https://gopaltiwari7.github.io/Cricket_Academy/Images/bumrah.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
 
   #p3 {
-    background-image: url(https://imgur.com/uzmZqZA.jpg);
+    background-image: url(https://gopaltiwari7.github.io/Cricket_Academy/Images/hardik.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }

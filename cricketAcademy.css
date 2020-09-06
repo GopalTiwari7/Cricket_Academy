@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
   }
+  body{
+      background-image: url(https://gopaltiwari7.github.io/Cricket_Academy/Images/stadium.jpg);
+  }
 
   /* 
     --Resolve Position Fixed Issue-- 
@@ -93,6 +96,9 @@
     margin: 20px 20px;
     color: lightcoral;
   }
+  h2{
+    text-align: center;
+  }
 
   /* ------- Team Members ----- */
 
@@ -132,7 +138,7 @@
     height: 550px;
     background-color: gray;
     float: left;
-    color: #fff;
+    color: skyblue;
   }
 
   #left-p>h2 {
